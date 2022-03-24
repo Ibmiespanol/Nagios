@@ -1,2 +1,2 @@
-# Nagios
-Repositorio de Scripts de Nagios.
+# Nagios for IBM i 
+Repositorio de Scripts de Nagios
